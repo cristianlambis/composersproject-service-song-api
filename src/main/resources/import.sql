@@ -1,0 +1,1 @@
+INSERT INTO songs (id,name,album,gender,lyrics,year) VALUES ('1','Sabes','primero','salsa','sin_registro',2012);
